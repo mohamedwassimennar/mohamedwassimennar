@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedwassimennar&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedwassimennar" /> </p>
 
-- 🔭 I’m currently working on **a personal web app to track my competences and practice technical skills 🎯**
+- 🔭 I’m currently working on **a personal web app to track my competences and practice technical skills. 🎯**
 
-- 💼 I’m looking for **job opportunities in web development and DevOps**
+- 💼 I’m looking for **job opportunities in web development and DevOps.**
 
-- 🤝 I’m looking for help with **new job propositions or interesting web development projects**
+- 🤝 I’m looking for help with **new job propositions or interesting web development projects.**
 
 - 👨‍💻 All of my projects are available at [https://mohamedwassimennar.github.io/My_Portfolio/](https://mohamedwassimennar.github.io/My_Portfolio/)
 
-- 💬 Ask me about **Angular, SpringBoot, Joget, DevOps**
+- 💬 Ask me about **Angular, SpringBoot, Joget, DevOps...**
 
 - 📫 How to reach me **mohamedwassimennar18@gmail.com**
 
