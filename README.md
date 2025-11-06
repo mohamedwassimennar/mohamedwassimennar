@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedwassimennar&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedwassimennar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedwassimennar" alt="mohamedwassimennar" /></a> </p>
-
 - 🔭 I’m currently working on **A personal web app to track my competences and practice technical skills 🎯**
 
 - 💼 I’m looking for **job opportunities in web development and DevOps**
